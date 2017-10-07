@@ -1,0 +1,40 @@
+{
+    "inform": [
+        {
+            "userName": "@我的",
+            "userID": "2015214",
+            "badge": 0
+        },
+        {
+            "userName": "评论",
+            "userID": "2015215",
+            "badge": 10
+        },
+        {
+            "userName": "赞",
+            "userID": "2015216",
+            "badge": 1
+        }
+    ],
+    "message": [
+        {
+            "userName": "未关注人消息",
+            "userID": "2015217",
+            "currentTime": "2017-7-20",
+            "dynamics": "超级话题：你最近讨论过的#阴阳师#手游已经升级为超级话题啦，快来看看吧。超级话题是兴趣社区，进来发帖可以和更多爱好者一起交流哦~"
+        },
+        {
+            "userName": "订阅消息",
+            "userID": "2015218",
+            "currentTime": "2016-3-25",
+            "dynamics": "开心消消乐：开心消消乐两岁啦~村长要送给你们小黄鸡抱枕和游戏大礼包哦~快点击链接参与活动吧！"
+        },
+        {
+            "headImgUrl": "../../../static/img/s.jpg",
+            "userName": "网易阴阳师手游",
+            "userID": "2015219",
+            "currentTime": "2016-1-20",
+            "dynamics": "#为崽而战# ☆今日应援☆ 本日应援式神 大天狗"
+        }
+    ]
+}
