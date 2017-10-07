@@ -41,8 +41,8 @@ router.post('/message', function (req, res, next) {
 });
 router.post('/follow', function (req, res, next) {
     res.send({
-        code: 1,
-        message: '数据错误',
+        code: 0,
+        message: '',
         data: require('../data/follow.json')
     });
 });
